@@ -1,0 +1,6 @@
+@TwitchSocialScore_HostAddress = http://localhost:5216
+
+GET {{TwitchSocialScore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
